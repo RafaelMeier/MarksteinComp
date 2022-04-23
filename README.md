@@ -1,10 +1,10 @@
 # MarksteinComp
 
-The scripts computes the Markstein number based on the strain rate of counter-flow flames.
+The script computes the Markstein number based on the strain rate of counter-flow flames.
 
 The computation method follows https://www.sciencedirect.com/science/article/pii/S0010218002003681
 
-## Library list
+## Libraries list
 
 - Cantera >=2.5
 - Pandas
@@ -16,6 +16,6 @@ The computation method follows https://www.sciencedirect.com/science/article/pii
 3. postProcessingMarksteinNumber.py
 
 #### OBS:
-Some flames data, for H2 and CH4, are provided in FlamesProps.py
+Some flames data for H2 and CH4 are provided in FlamesProps.py
 
 
