@@ -1,6 +1,8 @@
 # MarksteinComp
 
-The script computes the Markstein number based on the strain rate of counter-flow flames.
+The MarksteinComp scripts compute the Markstein number based on the strain rate of premixed counter-flow flames. 
+
+For weakly-stretched flames, the Markstein length is a phenomenological parameter that depends on properties such as the unburnt/burnt mixture temperature, local heat release, and the Lewis number. It characterizes a linear variation of the flame speed associated with the local flame surface topology regarding the local flame front curvature and/or strain rate.
 
 The computation method follows https://www.sciencedirect.com/science/article/pii/S0010218002003681
 
